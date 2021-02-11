@@ -1,0 +1,35 @@
+body{
+    background-color: darkslategrey;
+    color: white;
+}
+
+.x{
+    color: whitesmoke;
+}
+
+.y{
+    color: whitesmoke;
+}
+
+.operator{
+    color: lightgreen;
+}
+
+.answer{
+    color: orangered;
+}
+
+table{
+    background-color: tomato;
+    margin: auto;
+}
+
+div{
+    background-color: black;
+    margin: auto;
+}
+
+table,th,tr,td{
+    border: 2px cyan solid;
+    border-collapse: collapse;
+}
