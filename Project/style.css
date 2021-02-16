@@ -20,6 +20,7 @@ body{
 #display{
     font-size: 50px;
     font-family: sans-serif;
+    text-align: right;
 }
 
 .answer{
@@ -31,6 +32,7 @@ table{
     height: 500px;
     width: 420px;
     margin: auto;
+    border: 50px black;
 }
 
 div{
@@ -41,8 +43,7 @@ div{
 }
 
 table,th,tr,td{
-    border: 2px black;
-    border-collapse: collapse;
+    border: 30px black;
 }
 
 button{
