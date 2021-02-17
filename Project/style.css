@@ -1,15 +1,16 @@
 body{
     background-color: darkslategrey;
+    background-image: url(https://cdn.hipwallpaper.com/i/73/22/aTJsHC.jpg);
     color: white;
 }
 
 .x{
-    color: whitesmoke;
+    color: darkcyan;
     cursor: pointer;
 }
 
 .y{
-    color: whitesmoke;
+    color: pink;
     cursor: pointer;
 }
 
@@ -23,6 +24,19 @@ body{
     text-align: right;
 }
 
+#mai{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    height: 400px;
+}
+
+#stella{
+    position: absolute;
+    top: 70px;
+    right: 300px;
+    height: 150px;
+}
 .answer{
     color: whitesmoke;
 }
